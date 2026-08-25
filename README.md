@@ -13,11 +13,9 @@
   <tr>
     <td valign="top" width="36%" align="center">
 
-<!-- SVG avatar embedded as data URI -->
-<img alt="EA avatar" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 160 160'><rect rx='20' width='160' height='160' fill='%23111111'/><text x='50%' y='52%' dominant-baseline='middle' text-anchor='middle' font-family='Menlo,Consolas,monospace' font-size='64' fill='%23FFFFFF'>EA</text></svg>" width="160" height="160" />
+<img alt="EA avatar" src="https://github.com/eyad-amir.png" width="160" height="160" />
 
-```text
-          .--.
+<pre><code>          .--.
          |o_o |
          |:_/ |
         //   \ \
@@ -26,36 +24,33 @@
       \___)=(___/
 
    >>> ASCII PORT <<<
-```
+</code></pre>
 
     </td>
     <td valign="top" width="64%">
 
-```bash
-eyad@system:~$ id
+<pre><code>eyad@system:~$ id
 Name..........: Eyad Amir Beshr
 Role..........: AI / Machine Learning Engineer & Backend Developer
 University....: Alexandria University
 Program.......: Computer & Communication Engineering (Class of 2028)
 Stack/Focus...: PyTorch, Deep Learning, Python, Java, .NET, Docker
-```
+</code></pre>
 
-```bash
-eyad@system:~$ cat BUILD.FOCUS
+<pre><code>eyad@system:~$ cat BUILD.FOCUS
 - Deep Learning Infrastructure
 - MLOps
 - Backend Systems
-```
+</code></pre>
 
-```bash
-eyad@system:~$ cat TOOLCHAIN
+<pre><code>eyad@system:~$ cat TOOLCHAIN
 - Python
 - C
 - Java
 - SQL
 - Git
 - Docker
-```
+</code></pre>
 
     </td>
   </tr>
