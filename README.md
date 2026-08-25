@@ -1,7 +1,6 @@
-<div align="center">Eyad Amir
-Computer Engineering Student @ Alexandria University (Class of 2028)
-Focused on becoming an AI / Machine Learning Engineer
-</div>
+<h1 align="center">Eyad Amir</h1>
+<h3 align="center">Computer Engineering Student @ Alexandria University (Class of 2028)</h3>
+<h4 align="center">Focused on becoming an AI / Machine Learning Engineer</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eyad-amir-65521b369">
@@ -16,7 +15,7 @@ Focused on becoming an AI / Machine Learning Engineer
 </p>
 
 ### About
-I'm a Computer Engineering student (Class of 2028) building toward a career as an AI/ML Engineer. Right now, that means going through the DEPI AI & Machine Learning track, strengthening my Data Structures & Algorithms through LeetCode, and working on projects I can actually stand behind — not just certificates. I bring practical industry exposure from previous summer training programs at Abu Qir Fertilizers and an electricity company, and I care deeply about being able to build and explain something end-to-end. I'm currently looking toward internships and freelance work in AI/ML.
+I'm a Computer Engineering student (Class of 2028) building toward a career as an AI/ML Engineer. Right now, that means going through the DEPI AI & Machine Learning track, strengthening my Data Structures & Algorithms through LeetCode, and working on projects I can actually stand behind — not just certificates. I care deeply about being able to build and explain something end-to-end. I'm currently looking toward internships and freelance work in AI/ML.
 
 ### Currently
 🧠 Working through the DEPI AI & Machine Learning program
