@@ -1,14 +1,10 @@
-<div align="center">
-
-# Eyad Amir
-
-**Computer Engineering Student @ Alexandria University**
+<div align="center">Eyad Amir
+Computer Engineering Student @ Alexandria University (Class of 2028)
 Focused on becoming an AI / Machine Learning Engineer
-
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG">
+  <a href="https://www.linkedin.com/in/eyad-amir-65521b369">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amireyad93@gmail.com">
@@ -19,34 +15,27 @@ Focused on becoming an AI / Machine Learning Engineer
   </a>
 </p>
 
----
-
 ### About
-
-I'm a Computer Engineering student building toward a career as an AI/ML Engineer. Right now that means going through the **DEPI AI & Machine Learning track**, strengthening my Data Structures & Algorithms through LeetCode, and working on projects I can actually stand behind — not just certificates. I care more about being able to build and explain something end-to-end than about collecting badges.
-
-I'm currently looking toward internships and freelance work in AI/ML.
+I'm a Computer Engineering student (Class of 2028) building toward a career as an AI/ML Engineer. Right now, that means going through the DEPI AI & Machine Learning track, strengthening my Data Structures & Algorithms through LeetCode, and working on projects I can actually stand behind — not just certificates. I bring practical industry exposure from previous summer training programs at Abu Qir Fertilizers and an electricity company, and I care deeply about being able to build and explain something end-to-end. I'm currently looking toward internships and freelance work in AI/ML.
 
 ### Currently
-
-- 🧠 Working through the **DEPI AI & Machine Learning** program
-- 🧩 Practicing Data Structures & Algorithms on LeetCode
-- 🔍 Preparing for AI/ML internships and freelance opportunities
-- 📂 Building projects to move from "learning ML" to "shipping ML"
+🧠 Working through the DEPI AI & Machine Learning program
+👕 Architecting an "AI Wardrobe" capstone project to move from "learning ML" to "shipping ML"
+🧩 Practicing Data Structures & Algorithms on LeetCode
+🔍 Preparing for AI/ML internships and freelance opportunities
 
 ### Tech Stack
-
 **Languages**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 **ML / Data**
-
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
@@ -54,17 +43,11 @@ I'm currently looking toward internships and freelance work in AI/ML.
 </p>
 
 **Tools**
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
-### Projects
-
-> _Nothing pinned yet._ Once you have a project you're willing to stand behind, pin it here (or use GitHub's "Customize your pins" feature) with a one-line description and a link. Two or three solid, documented projects beat a long list of half-finished ones — this is the section that will actually get you looked at twice.
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eyad-amir&label=Profile%20Views&color=111111&style=flat" alt="Profile views" />
